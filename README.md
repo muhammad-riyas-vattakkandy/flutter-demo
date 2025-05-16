@@ -89,3 +89,6 @@ flutter run
 
 ### Youtube Demo
 https://www.youtube.com/watch?v=ttqBGKgp3gM
+
+### Presentation slides
+[Slides](add flutter_demo.pdf)
